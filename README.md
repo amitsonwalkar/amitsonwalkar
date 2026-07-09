@@ -126,7 +126,9 @@ Flutter & Firebase based SaaS application for Study Libraries featuring student 
 
 - LinkedIn: https://www.linkedin.com/in/amit-sonwalkar-a9680b35/ 
 - GitHub: https://github.com/amitsonwalkar
-- Upwork: https://www.upwork.com/freelancers/amits322  
+- Upwork: https://www.upwork.com/freelancers/amits322
+- Portfolio: Coming Soon
+- Email: da.asonwalkar@gmail.com
 
 ---
 
