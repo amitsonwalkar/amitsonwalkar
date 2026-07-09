@@ -1,6 +1,6 @@
 # Hi 👋 I'm Amit Sonwalkar
 
-## Lead Software Engineer | Java | Spring Boot | Enterprise Software Architect
+## Lead Software Engineer | Java | Spring Boot | Enterprise Software Architect | Web Development | Mobile Development
 
 With over **13 years of experience** in enterprise software development, I specialize in designing and delivering scalable backend systems, REST APIs, microservices, and modern web applications.
 
